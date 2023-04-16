@@ -1,0 +1,7 @@
+{
+    "workbench.colorTheme": "Gruvbox Dark Medium",
+     "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "eslint.validate": ["javascript"]
+}
