@@ -1,1 +1,3 @@
-console.log('we in');
+import startup from './startup.js';
+
+startup.buildPage();
